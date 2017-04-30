@@ -1,0 +1,18 @@
+010101010101010101010101010101010101
+1     W W W W                      0
+0    W W W W W                     1
+1   W W M M W W                    0
+0  W W M M M + W W W W W           1
+1 W + M M M H W W W W W W          0
+0  W H M H H W G G G G W W         1
+1 W + M H W W G G G G G W W        0
+0  W H H W W G G G H G G W W       1
+1   W W W W G GqG H H G G + W W    0
+0    W W W G G G H H H G H W W W   1
+1     W + G GDG G + H G H W B W W  0
+0      W H G G G H H G H W B B W W 1
+1       W H H H H W H H W B B B + W0
+0        W W W W W W W + B B B H W 1
+1                     W H H H H W  0
+0                      W W W W W   1
+101010101010101010101010101010101010

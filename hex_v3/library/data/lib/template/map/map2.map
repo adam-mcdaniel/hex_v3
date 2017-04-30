@@ -1,0 +1,63 @@
+0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
+1                                                                                                                       0
+0                                                                                                                       1
+1                                                                                                                       0
+0                                                                                                                       1
+1                                                                                                                       0
+0                                                                                                                       1
+1                                                                                                                       0
+0                                                                                                                       1
+1                                                                                                                       0
+0                                                                                                                       1
+1                                      H H H H H H H H H H H H H H H H H H H H H H H                                    0
+0                                     H S S S S S S S S S S S S S S S S S S S S S S H                                   1
+1                                    H S S W W W W W W W W W W W W W W W W W W W S S H                                  0
+0                                   H S M S W W W D W D W W W W W W D W D W W W S G S H                                 1
+1                                  H S M M S W W W W W W W W W W W W W W W W W S G G S H                                0
+0                                 H S M M M S S S S S W S S S S S S W S S S S S G G G S H                               1
+1                                H S M M M S H H H H S W S H H H S W S H H H H S G G G S H                              0
+0                               H S M M M S H       H S W S H H S W S H       H S G G G S H                             1
+1                              H S M M M S H         H S W S H S W S H         H S G G G S H                            0
+0                             H S M M M S H           H S W S S W S H           H S G G G S H                           1
+1                            H S M M M S H           H S S W S W S S H           H S G G G S H                          0
+0                           H S M M M S H           H S S W W W W S S H           H S G G G S H                         1
+1                          H S M M M S H           H S M S S D S S G S H           H S G G G S H                        0
+0                         H S M F M S H H H H H H H S M S H S S H S G S H H H H H H H S G Q G S H                       1
+1                        H S M M M S S S S S S S S S M F S S D S S Q G S S S S S S S S S G G G S H                      0
+0                       H S M M F M F M F M F M F M M S S F SqS Q S S G Q G Q G Q G Q G S Q G G S H                     1
+1                      H S S S S S S S S S S S S S S S H S S H S S H S S S S S S S S S S S S S S S H                    0
+0                       H S G G Q G Q G Q G Q G Q G G S S Q S S F S S M F M F M F M F M S F M M S H                     1
+1                        H S G G G S S S S S S S S S G Q S S D S S F M S S S S S S S S S M M M S H                      0
+0                         H S G Q G S H H H H H H H S G S H S S H S M S H H H H H H H S M F M S H                       1
+1                          H S G G G S H           H S G S S D S S M S H           H S M M M S H                        0
+1                           H S G G G S H           H S S W W W W S S H           H S M M M S H                         0
+0                            H S G G G S H           H H S W S W S H H           H S M M M S H                          1
+1                             H S G G G S H           H S W S S W S H           H S M M M S H                           0
+0                              H S G G G S H         H S W S H S W S H         H S M M M S H                            1
+1                               H S G G G S H       H S W S H H S W S H       H S M M M S H                             0
+0                                H S G G G S H H H H S W S H H H S W S H H H H S M M M S H                              1
+1                                 H S G G G S S S S S W S S S S S S W S S S S S M M M S H                               0
+0                                  H S G G S W W W W W W W W W W W W W W W W W S M M S H                                1
+1                                   H S G S W W W D W D W W W W W W D W D W W W S M S H                                 0
+0                                    H S S W W W W W W W W W W W W W W W W W W W S S H                                  1
+1                                     H S S S S S S S S S S S S S S S S S S S S S S H                                   0
+0                                      H H H H H H H H H H H H H H H H H H H H H H H                                    1
+1                                                                                                                       0
+0                                                                                                                       1
+1                                                                                                                       0
+1                                                                                                                       0
+0                                                                                                                       1
+1                                                                                                                       0
+0                                                                                                                       1
+1                                                                                                                       0
+0                                                                                                                       1
+1                                                                                                                       0
+0                                                                                                                       1
+1                                                                                                                       0
+0                                                                                                                       1
+1                                                                                                                       0
+0                                                                                                                       1
+1                                                                                                                       0
+0                                                                                                                       1
+1                                                                                                                       0
+0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
